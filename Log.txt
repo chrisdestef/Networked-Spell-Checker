@@ -1,0 +1,3 @@
+Client 4 has connected
+Client 4 sent hello
+hello is spelled correctly
